@@ -8,4 +8,4 @@ Demandas de negócios exigidas:
 - Buscar todas as séries disponíveis 
 - Buscar séries através do ID solicitado
 - Buscar séries através do título
-- Buascar séries através do gênero
+- Buscar séries através do gênero
